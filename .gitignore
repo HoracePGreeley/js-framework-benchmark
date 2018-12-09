@@ -62,7 +62,7 @@ yarn.lock
 
 # angular 2 aot
 angular-*/lib/
-**/app.ngfactory.ts
+**/app.ngfactory.ts~
 angular-*/src/app.ngsummary.json
 
 #glimmer
